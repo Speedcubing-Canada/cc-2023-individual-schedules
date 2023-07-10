@@ -1,2 +1,3 @@
-# cc-2023-individual-schedules
-Groups and duties for competitors at Canadian Championship 2023.
+# Canadian Championship 2023 Competitor Group Schedules
+
+Groups and judging assignments for competitors at Canadian Championship 2023.
