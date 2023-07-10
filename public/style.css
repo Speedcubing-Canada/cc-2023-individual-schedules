@@ -41,3 +41,8 @@ tbody tr:nth-child(even) {
   background-color: lightgrey;
   color: black;
 }
+
+.name-link {
+  font-size: large;
+  font-weight: bold;
+}
