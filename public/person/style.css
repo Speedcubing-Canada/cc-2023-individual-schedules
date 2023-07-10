@@ -1,0 +1,54 @@
+body {
+  font-family: Lato, Arial, Helvetica, sans-serif
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px; 
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.judge {
+  font-style: italic;
+  font-weight: bold;
+}
+
+tbody tr:nth-child(even) {
+  background-color: lightgrey;
+  color: black;
+}
+
+.name-link {
+  font-size: large;
+  font-weight: bold;
+}
+
+table {
+  border-spacing: 0;
+  margin: 20px 0px;
+}
